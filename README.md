@@ -38,7 +38,7 @@ The results suggest that blood flow audio recordings contain diagnostically rele
 
 ```text
 .
-├── notebooks/          # Jupyter/Colab notebooks with experiments
+├── notebooks/          # Colab notebook with experiments
 ├── src/                # Python scripts with feature extraction functions
 └── README.md
 ```
