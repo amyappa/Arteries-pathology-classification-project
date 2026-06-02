@@ -39,11 +39,9 @@ The results suggest that blood flow audio recordings contain diagnostically rele
 ```text
 .
 ├── README.md
-├── notebooks/          # Colab notebook with experiments
-│   └── project-notebook-Iapparova.ipynb
-├── src/                # Python scripts with feature extraction functions
-    └── features.py
-    └── chaotic.py
+├── project-notebook-Iapparova.ipynb          # Colab notebook with experiments
+├── features.py                # Python script with feature extraction functions
+├── chaotic.py                 # Python script functions of chaotic analysis 
 └── README.md
 
 ```
